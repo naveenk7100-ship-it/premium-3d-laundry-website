@@ -143,7 +143,7 @@ export const BRAND_CONFIG: BrandConfig = {
 
   // SEO & Social Sharing
   seo: {
-    siteUrl: 'https://premium-3d-laundry-website.vercel.app',
+    siteUrl: 'https://naveenk7100-ship-it.github.io/premium-3d-laundry-website',
     siteName: 'FreshFold Organic Laundry Atelier',
     metaTitle: 'Fresh Clothes. Zero Effort. | Premium 3D Laundry & Valet Showroom',
     metaDescription:

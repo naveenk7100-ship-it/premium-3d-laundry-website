@@ -1,6 +1,6 @@
 import { ImageResponse } from 'next/og';
 
-export const runtime = 'edge';
+export const dynamic = 'force-static';
 export const alt = 'FreshFold — Premium Eco-Care Laundry & Valet Atelier';
 export const size = {
   width: 1200,

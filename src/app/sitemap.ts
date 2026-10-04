@@ -1,6 +1,8 @@
 import { MetadataRoute } from 'next';
 import { BRAND_CONFIG } from '@/config/brand.config';
 
+export const dynamic = 'force-static';
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = BRAND_CONFIG.seo.siteUrl;
   const lastModified = new Date();
